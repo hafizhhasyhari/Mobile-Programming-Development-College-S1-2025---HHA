@@ -19,7 +19,6 @@ Struktur ini disusun agar:
 ---
 
 Mobile-Programming-Development-College-S1-2025---HHA/
----
 
 ''' bash
 │
