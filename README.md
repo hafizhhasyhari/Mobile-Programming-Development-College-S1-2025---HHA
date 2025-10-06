@@ -19,6 +19,9 @@ Struktur ini disusun agar:
 ---
 
 Mobile-Programming-Development-College-S1-2025---HHA/
+---
+
+''' bash
 │
 ├── 📘_materials/                          # Materi Kuliah
 │   ├── week01_ui_intro.md
@@ -129,3 +132,4 @@ Mobile-Programming-Development-College-S1-2025---HHA/
 ├── README.md
 ├── LICENSE
 └── .gitignore
+'''
