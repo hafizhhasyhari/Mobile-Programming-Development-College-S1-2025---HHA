@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">laporan3_202331206_hafizhhilmanasyhari_splashscreen_dan_menu</string>
+    <string name="app_name_full">Form Input Application</string>
+    <string name="app_tagline">Aplikasi Input Data Mahasiswa</string>
+    <string name="app_logo">App Logo</string>
+    <string name="loading_text">Loading...</string>
+    <string name="version_info">Version 1.0.0</string>
+
+    <!-- Menu Activity Strings -->
+    <string name="form_title">Form Input Data</string>
+    <string name="form_subtitle">Silakan isi data dengan lengkap</string>
+    <string name="label_nama">Nama Lengkap</string>
+    <string name="hint_nama">Masukkan nama lengkap</string>
+    <string name="label_nim">NIM</string>
+    <string name="hint_nim">Masukkan NIM</string>
+    <string name="label_jenis_kelamin">Jenis Kelamin</string>
+    <string name="radio_laki">Laki-laki</string>
+    <string name="radio_perempuan">Perempuan</string>
+    <string name="label_hobi">Hobi</string>
+    <string name="checkbox_konfirmasi">Saya menyatakan data yang diisi sudah benar</string>
+    <string name="button_kirim">KIRIM DATA</string>
+
+    <!-- Hasil Activity Strings -->
+    <string name="success_icon">Success Icon</string>
+    <string name="result_title">Data Berhasil Disimpan!</string>
+    <string name="result_subtitle">Berikut adalah data yang telah Anda input</string>
+    <string name="data_title">Informasi Data</string>
+    <string name="button_kembali">KEMBALI KE MENU</string>
+    <string name="button_share">BAGIKAN DATA</string>
+</resources>

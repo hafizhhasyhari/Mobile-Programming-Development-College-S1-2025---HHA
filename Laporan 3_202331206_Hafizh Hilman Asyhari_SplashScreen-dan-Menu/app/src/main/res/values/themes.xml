@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Laporan3_202331206_HafizhHilmanAsyhari_SplashScreendanMenu" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Laporan3_202331206_HafizhHilmanAsyhari_SplashScreendanMenu" parent="Base.Theme.Laporan3_202331206_HafizhHilmanAsyhari_SplashScreendanMenu" />
+</resources>
